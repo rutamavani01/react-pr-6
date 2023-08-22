@@ -1,0 +1,7 @@
+.modal-dialog{
+    width: 500px !important;
+    height: 100px !important;
+}
+.modal-footer {
+    justify-content: flex-start !important;
+}
