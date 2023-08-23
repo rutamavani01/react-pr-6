@@ -5,3 +5,10 @@
 .modal-footer {
     justify-content: flex-start !important;
 }
+h1{
+    background-color: rgb(227, 227, 227) !important;
+    padding: 20px;
+}
+.table1{
+    background-color: rgba(212, 212, 212, 0.664); padding: 20px !important; border-radius: 10px;
+}
